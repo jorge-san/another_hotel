@@ -1,0 +1,56 @@
+.navbar{
+	background-color: #282C35;
+}
+
+#logo{
+	height: 40px;
+	background-color: white;
+}
+
+.container-fluid{
+	padding-left: 15%;
+	padding-right: 15%;
+}
+
+.nav-item{
+	font-size: 150%;
+}
+
+#navFeatures{
+	padding-right: 70px;
+}
+
+#welcome{
+	text-align: center;
+	padding: 10% 10%;
+}
+
+h2{
+	padding-top: 70px;
+	padding-bottom: 50px;
+}
+
+#stay{
+	text-align: center;
+	padding: 10% 10%;
+}
+
+#contact{
+	padding-bottom: 5%;
+	text-align: center;
+	background-color: #282C35;
+	color: white;
+}
+
+#footer{
+	text-align: center;
+	background-color: #282C35;
+	color: white;
+}
+
+#copyright{
+	margin-bottom: 0px;
+    padding-bottom: 30px;
+}
+
+
